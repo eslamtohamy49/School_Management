@@ -1,0 +1,1 @@
+The School Management System is a C-based project designed to help schools efficiently manage and organize student records. It simplifies administrative tasks, enhances data accuracy, and reduces manual errors, showcasing practical programming applications in education.
